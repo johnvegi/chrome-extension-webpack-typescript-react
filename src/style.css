@@ -1,0 +1,7 @@
+body {
+    background-color: pink;
+    /* background-color: rgb(240, 240, 240);  */
+    min-width: 300px; 
+    border-radius: 16px; 
+    border-color: transparent;
+}
