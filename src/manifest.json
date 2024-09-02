@@ -1,7 +1,7 @@
 {
-  "name": "LinkedIn helper (alpha)",
+  "name": "Chrome helper (alpha)",
   "version": "0.0.1",
-  "description": "LinkedIn helper and tools with AI",
+  "description": "Chrome helper and tools with AI",
   "permissions": [
     "storage",
     "tabs",
@@ -16,7 +16,7 @@
   },
   "action": {
     "default_popup": "index.html",
-    "default_title": "LinkedIn helper"
+    "default_title": "Chrome helper"
   },
   "content_scripts": [{
     "matches": ["https://www.google.com/*"],
